@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    font-family:Arial;
+    background:#f0f8ff;
+}
+table{
+    margin:20px auto;
+    border:1px solid #3333cc;
+}
+th,td{
+    padding:8px;
+    border:1px solid #3333cc;
+}
+button{
+    padding:8px 15px;
+    color:white;
+    cursor:pointer;
+    border:none;
+}
